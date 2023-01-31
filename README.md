@@ -6,7 +6,7 @@ tsoski
 [![My Skills](https://skillicons.dev/icons?i=py,django,js,jquery,html,css,scss,mysql)](https://skillicons.dev)
 
 
-[![MURPHYEHN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MURPHYEHN&hide=stars&count_private=true&theme=radical&border_color=b949e6&text_color=5adba3)](https://github.com/anuraghazra/github-readme-stats)
+[![MURPHYEHN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MURPHYEHN&hide=stars&count_private=true&theme=radical&border_color=94f207&text_color=5adba3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
