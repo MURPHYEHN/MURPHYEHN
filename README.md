@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-```
-tsoski
-```
+Working with and learning: 
 [![My Skills](https://skillicons.dev/icons?i=py,django,js,jquery,html,css,scss,mysql)](https://skillicons.dev)
 
 
